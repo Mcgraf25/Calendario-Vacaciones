@@ -1,0 +1,5 @@
+{
+  "name": "Calendario de Vacaciones 2026",
+  "description": "Un calendario interactivo para que los miembros del departamento planifiquen y realicen un seguimiento de sus días de vacaciones y asuntos propios para el año 2026. Los usuarios pueden seleccionar su nombre, marcar días en el calendario y ver un resumen de los totales de días libres por persona.",
+  "requestFramePermissions": []
+}
